@@ -1,4 +1,12 @@
-![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/DOWNLOADS-20K-green?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/owner-marstenmaciver-purple?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/VERSION-V7.0.0-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge) 
+
+![Static Badge](https://img.shields.io/badge/DOWNLOADS-20K-green?style=for-the-badge) 
+
+![Static Badge](https://img.shields.io/badge/owner-marstenmaciver-purple?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge) 
+
+![Static Badge](https://img.shields.io/badge/VERSION-V7.0.0-black?style=for-the-badge)
 
 # Usage:
 #### 1. Download the archive from here - https://destrieslater.github.io/destrieslater-software-github.io/ 
